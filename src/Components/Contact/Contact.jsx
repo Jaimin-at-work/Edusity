@@ -39,9 +39,9 @@ const Contact = () => {
         <h3>Send us a message <img src={msg_icon} alt="" /></h3>
         <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.</p>
         <ul>
-            <li><img src={mail_icon} alt="" />atwork.jaimin@gmail.com</li>
-            <li><img src={phone_icon} alt="" />+91 9016953742</li>
-            <li><img src={location_icon} alt="" />Ahmedabad,Gujarat<br/> India</li>
+            <li><img src={mail_icon} alt="" />your_mailid</li>
+            <li><img src={phone_icon} alt="" />your_number</li>
+            <li><img src={location_icon} alt="" />your_location<br/> India</li>
         </ul>
       </div>
       <div className="contact-col">
